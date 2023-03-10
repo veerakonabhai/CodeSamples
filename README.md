@@ -5,4 +5,4 @@ Just an enthusiast keeping his code samples written so as to keep them in one pl
 Do contribute to this repo to have a collection of code snippets for reference :)
 
 
-Don't just commmit but add comments in the code too :P
+Don't just commit but add comments in the code too :P
